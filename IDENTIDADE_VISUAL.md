@@ -36,3 +36,7 @@ Branch: `backup/2026-10-31-identidade-original`
 Commit original: `ae97e0f2dda33e72f9afbcaffe85e984d0e94bf5`
 
 O backup contém o HTML, PDF e README anteriores completos. Para restaurar, recuperar os arquivos dessa branch.
+
+## Portfólio editorial
+
+A composição aprovada está documentada em `DESIGN.md`. São oito páginas com mais respiro, DM Sans, destaques serifados em pêssego e estudos de produtos em superfícies quentes. A paleta da marca permanece a mesma.
